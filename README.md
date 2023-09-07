@@ -9,6 +9,7 @@
 ### 4. Open the file located at `./pages/login` and update the clientid with your project's Google Client Id. To set it up, see https://developers.google.com/identity/gsi/web/guides/get-google-api-clientid
 ### 5. Navigate to the `backend` folder
 ### 6. Run `npm install`
-### 7. In two separate terminals, navigate to the `frontend` and `backend` folders respectively
-### 8. In each folder, run `npm run start`
-### 9. Open the `localhost` page for the frontend via the frontend code
+### 7. Fill in your respective environment variables in the `.env` file
+### 8. In two separate terminals, navigate to the `frontend` and `backend` folders respectively
+### 9. In each folder, run `npm run start`
+### 10. Open the `localhost` page for the frontend via the frontend code
