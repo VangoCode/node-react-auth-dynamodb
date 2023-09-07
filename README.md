@@ -13,3 +13,6 @@
 ### 8. In two separate terminals, navigate to the `frontend` and `backend` folders respectively
 ### 9. In each folder, run `npm run start`
 ### 10. Open the `localhost` page for the frontend via the frontend code
+
+## Notes:
+### This tool requires that you have an AWS DynamoDB project running, and have a table created to allow for users. It will need to have `email` set as the primary/partition key. Everything else can be default settings. You will need to set the table name in the `./backend/models/user.model.js` file.
